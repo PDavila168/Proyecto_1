@@ -1,2 +1,5 @@
 # Proyecto_1
 Pronostico ventas alimentos 
+El objetivo es pronosticar el nivel de ventas. Se tomó el Modelo de regresión lineal y el de Decission Tree Regresor por ser ambos modelos de aprendizaje supervisado.
+Se obtuvo mayor Score con el modelo Decission Tree
+Se puede obtener un mejor resultado si se trabajan las variables que se obviaron, aunque harían el procesamiento más lento. Sopesar aumentar en algo el Score por rapidez.
